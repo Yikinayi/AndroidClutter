@@ -1,0 +1,3 @@
+include ':clutter'
+include ':app'
+rootProject.name = "AndroidClutter"
